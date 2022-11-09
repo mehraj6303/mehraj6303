@@ -12,7 +12,7 @@
 - 💬 Ask me about **ANDROID**
 
 - 📫 How to reach me **mehraj1010@gmail.com**
-
+> [contact on WhatsApp](https://wa.me/qr/V3EMUZ6RQSPUM1)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mr_m_e_h_r_a_j_1_0_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_m_e_h_r_a_j_1_0_1" height="30" width="40" /></a>
