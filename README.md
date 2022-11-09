@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MEHRAJ FF INDIAN HACKER</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif">
+<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmehraj6303" alt="mdmehraj6303" /></a> </p>
 
