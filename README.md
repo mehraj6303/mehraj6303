@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E071F7&background=000000&width=435&lines=A👇+passionate+frontend+developer;FRP_BYPASS_ALL+MOBILE" alt="Typing SVG" /></a>
-<p align="left"> <a href="https://mehraj6303.github.io/frp_mehraj63.io/"><img src="https://github-profile-trophy.vercel.app/?username=MOBILE" alt="FRP_BYPASS_ALL" />instagram</imgea>instagram</p>
+<p align="left"> <a href="https://mehraj6303.github.io/frp_mehraj63.io/"><img src="https://github-profile-trophy.vercel.app/?username=MOBILE" alt="FRP_BYPASS_ALL" /</imgea></p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />instagram</a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **MOBILE HACKER📲**
 
