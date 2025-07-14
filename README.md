@@ -2,8 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F73CE0&width=435&lines=R%CD%8DE%CD%8DD%CD%8D+D%CD%8DR%CD%8DA%CD%8DG%CD%8DO%CD%8DN%CD%8D+V%CD%8D1%CD%8D;W%CC%90E%CC%90L%CC%90C%CC%90O%CC%90M%CC%90E%CC%90+T%CC%90O%CC%90+M%CC%90E%CC%90H%CC%90R%CC%90A%CC%90J%CC%90+F%CC%90F%CC%90+I%CC%90N%CC%90D%CC%90I%CC%90A%CC%90N%CC%90+H%CC%90A%CC%90C%CC%90K%CC%90E%CC%90R%CC%90" alt="Typing SVG" /></a>
 
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E071F7&background=000000&width=435&lines=A+passionate+frontend+developer;from+India" alt="Typing SVG" /></a>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmehraj6303" alt="mdmehraj6303" />src</imgea>github</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E071F7&background=000000&width=435&lines=A👇+MOBILE_FRP_BYPASS_ALL+MEHRAJ+developer;MOBILE+FRP" alt="Typing SVG" /></a>
+<p align="left"> <a href="https://mehraj6303.github.io/frp_mehraj63.io/"><img src="https://github-profile-trophy.vercel.app/?username=MOBILE_FRP_BYPASS_ALL" alt="" /></imgea></p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
