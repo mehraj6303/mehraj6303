@@ -12,8 +12,8 @@
 - 💬 Ask me about **ANDROID**
 
 - 📫 How to reach me **mehraj1010@gmail.com**
-> [MOBILE_FRP_BYPASS_ALL👇](https://mehraj6303.github.io/frp_mehraj63.io/)
-<h3 align="left">MOBILE_FRP_BYPASS_ALL:👇</h3>
+> [MOBILE_FRP_BYPASS_ALL👉](https://mehraj6303.github.io/frp_mehraj63.io/)
+<h3 align="left">MOBILE_FRP_BYPASS_ALL:☝</h3>
 <p align="left">
 <a href="https://instagram.com/mr_m_e_h_r_a_j_1_0_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_m_e_h_r_a_j_1_0_1" height="30" width="40" /></a>
 </p>
